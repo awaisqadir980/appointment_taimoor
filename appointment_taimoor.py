@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # Hospital and Doctor Information
-HOSPITAL_NAME = "Ameer Muhammad Physiotherapy Clinic - Kot Chutta
+HOSPITAL_NAME = "Ameer Muhammad Physiotherapy Clinic - Kot Chutta"
 DOCTOR_NAME = "Doctor's name: Dr. Taimoor Ameer"
 HOSPITAL_EMAIL = "info@ameer-hospital.com"
 HOSPITAL_PHONE = "+92-334-4147322"
